@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sujith-jeewantha
-- 👀 I’m interested in Python/Django/Java/Spring Boot
+- 👀 I’m interested in Python/Django/Java/Spring Boot/ React
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
